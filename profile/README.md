@@ -2,8 +2,8 @@
 
 Outras organizações relevantes:
 
-- github.com/insper-education/ : ferramentas de auxilio de ensino
-- github.com/insper-classroom/ : organização para ser usada com o github classroom
+- https://github.com/insper-education/ : ferramentas de auxilio de ensino
+- https://github.com/insper-classroom/ : organização para ser usada com o github classroom
 
 Repositório de disciplinas:
 
