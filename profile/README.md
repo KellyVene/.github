@@ -9,6 +9,7 @@ Repositório de disciplinas:
 
 | Semestre     | Disciplina     | Link |
 |--------------|-----------|------------|
+| 2 | Ciência dos dados    | https://github.com/Insper/CD22-2 | 
 | 3 | Robótica Computacional    | https://github.com/Insper/robot22.1 | 
 | 3 | Elementos de Sistemas | https://insper.github.io/Z01.1/ |
 | 5 | Computação Embarcada | https://insper.github.io/ComputacaoEmbarcada/ | 
